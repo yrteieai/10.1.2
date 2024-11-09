@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\10.1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0368650E-603A-4ACF-A649-2ECA1E30E76C}|UnitTest_10.1.2\\UnitTest_10.1.2.vcxproj|C:\\Users\\USER\\source\\repos\\10.1.2\\UnitTest_10.1.2\\UnitTest_10.1.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0368650E-603A-4ACF-A649-2ECA1E30E76C}|UnitTest_10.1.2\\UnitTest_10.1.2.vcxproj|solutionrelative:UnitTest_10.1.2\\UnitTest_10.1.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7785BAA6-1FCE-43FE-8EB0-F4F91B8CDF1D}|10.1.2\\10.1.2.vcxproj|C:\\Users\\USER\\source\\repos\\10.1.2\\10.1.2\\10.1.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7785BAA6-1FCE-43FE-8EB0-F4F91B8CDF1D}|10.1.2\\10.1.2.vcxproj|solutionrelative:10.1.2\\10.1.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest_10.1.2.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\10.1.2\\UnitTest_10.1.2\\UnitTest_10.1.2.cpp",
+              "RelativeDocumentMoniker": "UnitTest_10.1.2\\UnitTest_10.1.2.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\10.1.2\\UnitTest_10.1.2\\UnitTest_10.1.2.cpp",
+              "RelativeToolTip": "UnitTest_10.1.2\\UnitTest_10.1.2.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-09T21:40:41.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "10.1.2.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\10.1.2\\10.1.2\\10.1.2.cpp",
+              "RelativeDocumentMoniker": "10.1.2\\10.1.2.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\10.1.2\\10.1.2\\10.1.2.cpp",
+              "RelativeToolTip": "10.1.2\\10.1.2.cpp",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAqwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-09T16:42:38.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
